@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "main";
+    src: url(~@/assets/fonts/AtkinsonHyperlegible-Regular.ttf)
+}
+
+@font-face {
+    font-family: "title";
+    src: url(~@/assets/fonts/Anton-Regular.ttf)
+}
+
+$font-main: "main";
+$font-title: "title";
+$background-color: #2c82c9;
